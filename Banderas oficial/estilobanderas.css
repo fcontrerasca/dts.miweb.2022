@@ -1,0 +1,102 @@
+body {
+	background-color: #A1869E ;
+}
+
+.Bandera {
+	background-color: blueviolet;
+	width: 500px;
+	height: 300px;
+	margin: 20px;
+	float: left;
+	display: inline-block;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #A5AA52;
+}
+
+#Laos {
+background-color:#CE1126;
+}
+
+.lineaazul {
+background-color:#002868;
+width: 500px;
+height: 150px;
+margin-top: 80px ;
+}
+
+.circulo {
+height: 110px;
+width: 110px;
+background-color: white;
+display: inline-block;
+border-radius:50%;
+margin-left: 195px;
+margin-top: -900px;
+margin-bottom: 35px;
+}
+
+.textuno {
+	margin-top: 60px;
+	font-size: 20px;
+	font-family: 'Abyssinica SIL', serif;
+	margin-left: 230px;
+
+
+
+}
+
+#Mexico {
+	background-color: white;
+}
+
+.franjaverde {
+	background-color: #006341;
+	width: 33.3%;
+	height: 100%;
+	float: left;
+}
+
+.franjaroja {
+	background-color: #C8102E;
+	width: 33.3%;
+	height: 100%;
+	float: right;
+}
+
+.escudo {
+	height: 110px;
+	width: 110px;
+	display: inline-block;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 30px;
+}
+
+.textdos {
+	margin-top: 310px;
+	font-size: 20px;
+	font-family: 'Abyssinica SIL', serif;
+	margin-left: 215px;
+}
+
+#Japon {
+	background-color: white;
+}
+
+.circulorojo {
+	height: 170px;
+	width: 170px;
+	background-color: #bb1c33;
+	display: inline-block;
+	border-radius: 50%;
+	margin-top: 70px;
+	margin-left: 165px;
+}
+
+.texttres {
+	margin-top:60px ;
+	font-size:20px ;
+	font-family: 'Abyssinica SIL', serif;
+	margin-left: 220px;
+}
